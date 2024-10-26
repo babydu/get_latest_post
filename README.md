@@ -1,0 +1,2 @@
+# get_latest_post
+获取sitemap文件中最新的url地址，可以手动提交sitemap地址，不需要修改源代码
